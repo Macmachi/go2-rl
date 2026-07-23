@@ -1,0 +1,35 @@
+# Dossiers privés / archives (non publiés)
+archive_*/
+private_*/
+
+# Sorties d'entraînement (checkpoints, TensorBoard) — volumineux
+logs/
+*.pt
+
+# Journaux d'orchestration / temporaires
+*.log
+
+# Vidéos et images rendues — volumineux
+videos/
+*.mp4
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Divers OS / éditeurs
+.DS_Store
+*.swp
+.idea/
+.vscode/
+_corbeille_obsolete/
+montage_tools/
