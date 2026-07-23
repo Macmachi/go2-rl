@@ -201,7 +201,7 @@ les autres compétences.
 > ajuste tout seul, par essais-erreurs sur **4096 robots en parallèle**, la façon de
 > bouger qui maximise ce score. Ci-dessous, chaque étape = un score différent.
 
-### 1. 🚶 Marcher — *le pilote* ✅ *(entraîné)*
+### 1. 🚶 Marcher
 
 ![Le Go2 apprend à marcher](gifs/marche.gif)
 
