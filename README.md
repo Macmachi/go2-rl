@@ -1,11 +1,6 @@
 # Go2 RL — apprendre à un robot quadrupède, de zéro, sur un GPU grand public
 
-> 🇬🇧 *This project trains a Unitree Go2 quadruped with PPO in the
-> [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) simulator on a consumer AMD
-> GPU (ROCm — no CUDA, no Isaac Gym): walking from scratch, then running, postures, LiDAR
-> obstacle avoidance and rough terrain, with motor limits and domain randomization matched
-> to the real robot's specs (sim-to-real). Documentation is in French — the GIFs, learning
-> curves and code speak for themselves.*
+**🌐 Langue / Language : 🇫🇷 Français (cette page) · [🇬🇧 English](README.en.md)**
 
 Entraînement par renforcement d'un **Unitree Go2** (robot nu, **sans bras ni caméra**)
 dans le simulateur **[Genesis](https://github.com/Genesis-Embodied-AI/Genesis)**, sur un
